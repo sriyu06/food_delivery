@@ -18,7 +18,7 @@ const menuItems = [
     menuContainer.appendChild(menuItem);
   });
   
-  // Shopping cart functionality
+  // Shopping cart
   const cartItems = [];
   const cartContainer = document.getElementById('cart-items');
   const totalPriceSpan = document.getElementById('total-price');
